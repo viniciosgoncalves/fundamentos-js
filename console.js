@@ -7,4 +7,6 @@ console.log (minhaVar)
 
 //tratamento de erros
 
-console.error("eu sou um erro!")
+//console.error("eu sou um erro!")
+console.log("deu erro");
+console.error(new Error("deu erro"));
